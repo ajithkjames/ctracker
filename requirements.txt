@@ -11,7 +11,7 @@ channels-redis==2.3.2
 constantly==15.1.0
 daphne==2.3.0
 decorator==4.4.0
-Django==2.1.7
+Django==2.2.10
 django-extra-fields==1.2.1
 djangorestframework==3.8.2
 graphene==2.1.3
